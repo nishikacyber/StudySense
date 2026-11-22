@@ -3,6 +3,7 @@ StudySense – Smart Study Planner
 StudySense is a console-based study planning application developed using the C programming language. It helps students organize their academic tasks, track study progress, monitor daily consistency, and stay updated about upcoming examinations.
 
 ~ Features
+
 1.Subject Management: Add and manage academic subjects.
 
 2.Task Management: Create and view study tasks.
